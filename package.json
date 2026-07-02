@@ -1,0 +1,1 @@
+{"name":"daily-2026-07-02-specimen-drawer","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 127.0.0.1","build":"vite build","qa":"node scripts/qa.mjs"},"dependencies":{"@vitejs/plugin-react":"latest","vite":"latest","typescript":"latest","react":"latest","react-dom":"latest","playwright":"latest"},"devDependencies":{}}
